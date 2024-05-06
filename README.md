@@ -2,8 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeJ1nG&theme=react&layout=compact)](https://github.com/FreeJ1nG/github-readme-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=FreeJ1nG&theme=react&layout=compact)](https://github.com/FreeJ1nG/github-readme-stats)
-
+I'm currently looking to contribute open source. Mainly [vite.js](https://vitejs.dev/) or [vite.js/uwu](https://vitejs.dev/?uwu)
 <!--
 **FreeJ1nG/FreeJ1nG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
